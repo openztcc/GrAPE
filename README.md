@@ -23,4 +23,5 @@ This project builds off of previous work done by other programmers formerly in t
 - Jeffrey Bostoen for creating ZT Studio, documentation, figuring out how the background frame and MM shadow format works
 - Vondell for providing demo/test graphics to original ZTSTudio project
 - HENDRIX for some contributions to the source code to original ZTStudio project
+- Eric "Goosifer" Galvan for porting of ZTStudio to C# and current maintenance of the project
 
