@@ -1,0 +1,44 @@
+# Build files
+
+bin/
+obj/
+
+# User-specific files
+
+*.user
+*.suo
+*.sln.docstates
+*.vs/
+.vscode/
+
+# Packages
+
+packages/
+.nuget/
+project.lock.json
+project.assets.json
+
+# Logs and cache
+
+*.log
+*.swp
+*.cache
+
+# Config
+
+appsettings.*.json
+secrets.json
+
+# IDE Stuff
+
+*.vs/
+*.vscode/
+*.csproj.user
+*.dll
+*.exe
+
+# Windows Stuff
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
