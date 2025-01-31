@@ -6,9 +6,7 @@ GrAPE (Great APE) is in reference to the original APE software created by Blue F
 
 Plans for the project will be split in stages. The following describes the longterm roadmap:
 
-- Translate/refactor ZTStudio from current codebase to C++ and away from VBasic
-- Implement a familiar UI using Qt instead of WinForms for future portability to other OS
-- Fix outstanding bugs persistent from original project
+- Implement a familiar UI using Qt to support future cross-platform builds
 - Integrate generation of project templates for Zoo Tycoon 1 game sprites much like the original APE software
 - Support the OpenZT project as an asset and mod creation tool for creators
 
