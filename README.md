@@ -14,3 +14,7 @@ Plans for the project will be split in stages. The following describes the longt
 
 - This project is coded in MinGW C++/Qt
 
+# Notes
+
+- 01/30/2025 - No longer a port for ZT Studio (a similar tool). This project will be built from the ground up for OpenZT.
+
